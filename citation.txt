@@ -1,0 +1,32 @@
+Who helped me:
+Mr. Aiello
+
+What I asked: 
+
+I asked about an error that occured when I initianted an object in my Runner class and how it would 
+display a huge error text. I also about an error that occured when I ran a maxIntelligence method in the Prompter class.
+
+
+
+What Response I recieved:
+
+For the first problem I was told that in the text files and dataset there were areas that were blank and needed to be filled with a value. 
+Once I filled it out the problem was fixed. Next, for the second problem I was just using the wrong method and because of that it displayed
+an error in the programming
+
+___________________________________________________
+
+Who helped me:
+Chatgpt
+
+What I asked: 
+
+In the prompter class the method which prints out all the avaliable geological periods kept printing Unknown, ?, Duplicates,
+and sometimes it would not work, so after a while I asked Chatgpt for some help
+
+What Response I recieved: 
+
+Chatgpt told me to include a for loop which would loop through everything in the dinosaur array and grabs its geological period, an if statement 
+which checks whether the current period has already been printed and if it hasnt then it prints it, another if statement which 
+prevents a blank line from printing before the first period as weall as making sure to print on a new line using \n, finally a block of code 
+which would add the period to a periodsPrinted so it won’t print again later.
