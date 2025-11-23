@@ -45,3 +45,5 @@ UML Diagram for my project nameOf![alt text](image.png)
 ## Description 
 
 Write a description of your project here. In your description, include as many vocab words from our class to explain your User Story, the chosen dataset and how your project addressed that users goals. If your project used the Scanner class for user input, explain how the user will interact with your project.
+
+This program outputs information based on the user's input. The options are the unique geological periods, the heaviest dinosaur (in kilograms), and the dinosaur with the highest intelligence (respectively). After the app's output, it asks the user whether they want to continue or not. If they wish to continue, they press Y and are presented with the questions, and if they press N, the program ends. 
